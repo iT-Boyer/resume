@@ -1,0 +1,3 @@
+[submodule "themes/almeida-cv"]
+	path = themes/almeida-cv
+	url = git@github.com:it-boyer/almeida-cv
