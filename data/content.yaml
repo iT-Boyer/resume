@@ -1,25 +1,25 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
+  FirstName: 霍曙光
+  LastName:
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: +135 2283 4108
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: itboyer@qq.com
     - Icon: fas fa-globe
-      Info: ines-almeida.com
+      Info: it-boyer.github.io
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: 北京
 
 Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: 北京金和软件股份有限公司
+    Place: 西二旗
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: iOS leader
+        Date: 2019.10 - 至今
         Details:
           - Arcu vitae elementum curabitur vitae nunc sed velit
           - Viverra aliquet eget sit amet tellus cras adipiscing
@@ -27,42 +27,42 @@ Experience:
           - Nisl tincidunt eget nullam non nisi est
           - Sed viverra tellus in hac.
           - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
+        Badges: ['禅道', 'Swift', 'ViperIt', 'Emacs', 'Java', 'Shell', 'Python', 'Vim']
+      - Title: iOS 研发工程师
+        Date: 2016.11 - 2019.10
         Details:
           - Nisl tincidunt eget nullam non nisi est
           - Sed viverra tellus in hac.
           - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+        Badges: ['Swift', 'ViperIt', 'SwiftUI', 'Combine']
+  - Employer: 北京创世泰克科技有限公司
+    Place: 北京 - 知春路
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: iOS 研发工程师
+        Date:  2013.11 - 2016.11
         Details:
           - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
           - Nisl tincidunt eget nullam non nisi est
           - Sed viverra tellus in hac.
           - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
+        Badges: ['Objective-C', 'Java', 'Swift']
+  - Employer: 北京鼎晟中天科技有限公司
+    Place: 北京 - 西二旗
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: iOS 研发工程师
+        Date: 2011.2 - 2013.11
         Details:
           - Arcu vitae elementum curabitur vitae nunc sed velit
           - Viverra aliquet eget sit amet tellus cras adipiscing
           - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
           - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Java', 'SqlServer', 'Android']
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: 郑州轻工业学院
+    Place: 郑州
+    Date: 2007 - 2011
+    Details: 计算机网络技术 - 本科
 
 References:
   - Name: Person One
@@ -86,52 +86,55 @@ References:
 
 
 Skills:
-  - Family: Programming
+  - Family: 编程
     Items:
+      - Swift
+      - Objective-C
       - Python
-      - HTML (including Jinja)
+      - HTML
       - Javascript
-      - CSS
-      - SASS
       - SQL
       - C#
       - Bash
-      - MATLAB
-  - Family: Frameworks
+  - Family: 架构
     Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
-  - Family: Developer Tools
+      - Viper
+      - MVVM
+      - Combine
+      - SwiftUI
+  - Family: 效率工具
     Items:
+      - 禅道
+      - Emacs
+      - Fastlane
+      - plantuml
       - Git
       - Docker
       - Jenkins
-      - AWS
-  - Family: Misc
+      - Alfred
+      - Xmind
+      - githubPage
+  - Family: 其他
     Items:
-      - Adobe Tools
-      - LaTeX
+      - MarkDown
+      - org-mode
+      - Obsidian
+      - vim
 
 Languages:
-  - Name: Portuguese
-    Level: Native
+  - Name: 汉语
+    Level: 母语
   - Name: English
     Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
 
 Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+  - 计算机网络技术 本科 (2011)
+  - Certified CMMI Associate (2021)
 
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+  - 骑行
+  - 烹饪
+  - 跑步
+  - 乒乓球
+  - 羽毛球
+  - 社交
