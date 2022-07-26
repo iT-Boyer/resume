@@ -27,7 +27,7 @@ Experience:
           - Nisl tincidunt eget nullam non nisi est
           - Sed viverra tellus in hac.
           - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['禅道', 'Swift', 'ViperIt', 'Emacs', 'Java', 'Shell', 'Python', 'Vim']
+        Badges: ['禅道', 'Swift', 'SPM', 'ViperIt', 'Emacs', 'Java', 'Shell', 'Python', 'Vim']
       - Title: iOS 研发工程师
         Date: 2016.11 - 2019.10
         Details:
@@ -45,7 +45,7 @@ Experience:
           - Nisl tincidunt eget nullam non nisi est
           - Sed viverra tellus in hac.
           - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Objective-C', 'Java', 'Swift']
+        Badges: ['Objective-C', 'Cocoapod', 'Java', 'Swift']
   - Employer: 北京鼎晟中天科技有限公司
     Place: 北京 - 西二旗
     Positions:
@@ -91,38 +91,56 @@ Skills:
       - Swift
       - Objective-C
       - Python
+      - Bash
+      - SQL
       - HTML
       - Javascript
-      - SQL
       - C#
-      - Bash
   - Family: 架构
     Items:
       - Viper
       - MVVM
-      - Combine
+  - Family: 系统库
+    Items:
       - SwiftUI
-  - Family: 效率工具
+      - Combine
+  - Family: 三方库
+    Items:
+      - Snipkit
+      - Alamofire
+      - SwiftyJSON
+      - JSONDecoder
+      - GRDB
+      - RxSwift
+      - ReactiveCocoa
+  - Family: 项目管理
     Items:
       - 禅道
       - Emacs
-      - Fastlane
+      - Taskjuggler
       - plantuml
-      - Git
-      - Docker
-      - Jenkins
-      - Alfred
       - Xmind
-      - githubPage
-  - Family: 其他
+      - Fastlane
+      - Git
+      - SPM
+      - Cocoapods
+      - Docker
+  - Family: 博客工具
     Items:
-      - MarkDown
+      - Emacs
       - org-mode
       - Obsidian
+      - githubPage
+  - Family: 效率工具
+    Items:
+      - Alfred
+      - Dash
+      - SwiftShell
+      - MarkDown
       - vim
 
 Languages:
-  - Name: 汉语
+  - Name: Chinese
     Level: 母语
   - Name: English
     Level: C2
