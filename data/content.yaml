@@ -12,7 +12,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: 北京
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: 我的职业方向偏向管理，侧重说下管理上的职业经历。我16 年之前带过几个初级程序员，之后从几人小团队主管做起；后来担任过几条业务线技术负责人，管理十几人，协调研发部门推进工作。从一个iOS程序员，到前端技术主管，到项目技术经理，在团队的支持下，每个岗位都做到勤勤恳恳，小有成果。满打满算在技术团队基层管理上耕耘了5年，希望在此时，能有机会加入更优秀的团队，成为其中一员，贡献一份力量。
 
 Experience:
   - Employer: 北京金和软件股份有限公司
@@ -90,27 +90,29 @@ Skills:
     Items:
       - Swift
       - Objective-C
+      - Java
+      - Elisp
+      - lua
       - Python
       - Bash
       - SQL
-      - HTML
-      - Javascript
-      - C#
   - Family: 架构
     Items:
       - Viper
       - MVVM
   - Family: 系统库
     Items:
+      - UIKit
       - SwiftUI
       - Combine
+      - JSONDecoder
   - Family: 三方库
     Items:
       - Snipkit
       - Alamofire
       - SwiftyJSON
-      - JSONDecoder
       - GRDB
+      - SwiftFFmpeg
       - RxSwift
       - ReactiveCocoa
   - Family: 项目管理
@@ -127,17 +129,40 @@ Skills:
       - Docker
   - Family: 博客工具
     Items:
+      - hugo
       - Emacs
-      - org-mode
+      - Org-mode
       - Obsidian
+      - MarkDown
       - githubPage
   - Family: 效率工具
     Items:
+      - Emacs
+      - Agenda
       - Alfred
       - Dash
-      - SwiftShell
-      - MarkDown
       - vim
+      - ssh
+      - Termux
+      - tmux
+  - Family: 其他
+    Items:
+      - VR:OpenXR
+      - Photoshop
+      - Termux
+      - lua:hammerspoon
+      - SwiftShell
+      - PythonKit
+      - XcodeProj
+      - SwiftFFmpeg
+  - Family: Swift开发workflow
+    Items:
+      - Alfred知乎热榜插件
+      - alfred查询视频信息插件
+      - Calibre书库搜索插件
+      - 禅道任务/bug库插件
+      - Xcodeproj项目自动化插件
+      - fastlane-Swift
 
 Languages:
   - Name: Chinese
