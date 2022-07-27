@@ -31,10 +31,29 @@ Experience:
       - Title: iOS 研发工程师
         Date: 2016.11 - 2019.10
         Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+          - 需求评审，了解关键业务和迭代功能，确定技术框架，以MVC原则规划业务架构
+          - 分解迭代模块功能，评估任务，估算工时
+          - 使用plantuml做开发模型，设计产品实现类图，流程图，时序图
+          - 技术预研，突破技术难关
+          - 冲刺开发功能业务，优化代码
+          - 提测灰度环境，解决功能bug，发布市场
+          - 组织Review 成员代码，辅助提升开发规范
+          - 组织项目回顾，总结迭代阻塞问题，录入风险库
         Badges: ['Swift', 'ViperIt', 'SwiftUI', 'Combine']
+      - Title: 明厨亮灶-自检自查
+        Date: 2019.11 - 2020.10
+        Details:
+          - 业务：公司紧随国家明厨亮灶政策，抢占食品安全监管市场。
+          - 场景：针对社区食品安全巡查员，在走访小吃街，食堂，饭店，进行现场拍照、笔录、签字、盖章等巡检工作，针对该场景进行需求分析，评估APP巡查功能的可行性，以智能化巡查。
+          - 职责：组建明厨亮灶团队，负责iOS 技术栈和业务开发。
+        Badges: ['Swift', 'ViperIt', 'SwiftUI', 'Combine']
+      - Title: 明厨亮灶-巡查系统
+        Date: 2016.11 - 2019.10
+        Details:
+          - 业务：公司紧随国家明厨亮灶政策，抢占食品安全监管市场。
+          - 场景：针对社区食品安全巡查员，在走访小吃街，食堂，饭店，进行现场拍照、笔录、签字、盖章等巡检工作，针对该场景进行需求分析，评估APP巡查功能的可行性，以智能化巡查。
+          - 职责：组建明厨亮灶团队，负责iOS 技术栈和业务开发。
+        Badges: ['Objective-C', 'MVC', '五定拍照', '系统定位', '人脸采集']
   - Employer: 北京创世泰克科技有限公司
     Place: 北京 - 知春路
     Positions:
