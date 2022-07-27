@@ -1,6 +1,6 @@
 BasicInfo:
-  FirstName: 霍曙光
-  LastName:
+  FirstName:
+  LastName: 霍曙光
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
@@ -10,7 +10,7 @@ BasicInfo:
     - Icon: fas fa-globe
       Info: it-boyer.github.io
     - Icon: fas fa-map-marker-alt
-      Info: 北京
+      Info: 北京-西二旗
 
 Profile: 我的职业方向偏向管理，侧重说下管理上的职业经历。我16 年之前带过几个初级程序员，之后从几人小团队主管做起；后来担任过几条业务线技术负责人，管理十几人，协调研发部门推进工作。从一个iOS程序员，到前端技术主管，到项目技术经理，在团队的支持下，每个岗位都做到勤勤恳恳，小有成果。满打满算在技术团队基层管理上耕耘了5年，希望在此时，能有机会加入更优秀的团队，成为其中一员，贡献一份力量。
 
@@ -18,24 +18,29 @@ Experience:
   - Employer: 北京金和软件股份有限公司
     Place: 西二旗
     Positions:
-      - Title: iOS leader
+      - Title: 技术经理
         Date: 2019.10 - 至今
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+          - 业务理解能力： 新业务开发开始，有严格的需求分析和业务评估过程，在开发设计时，通过建模演练，借助用例、活动图、时序图，分析业务合理性和潜在关系，理解需求的本质，再组织用例和设计反讲，协助技术人员理解需求，更准确有效的进行开发实现。
+          - 向上管理能力：在有自己的想法时，想争取领导的支持，付诸行动。必须要有明确的愿景目标和详细计划。举例，在推进swift 迁移项目时，会做一套周密的迭代计划，严格走产品迭代流程，能保证开发周期，产品质量，推动协调测试人员验收等。
+          - 领导力：无论自我领导和领导团队都需要有明确真切的愿景目标，能让员工看到成长机遇，一定会激发自身的积极主动性。
         Badges: ['禅道', 'Swift', 'SPM', 'ViperIt', 'Emacs', 'Java', 'Shell', 'Python', 'Vim']
-      - Title: iOS 研发工程师
+      - Title: iOS 主管
         Date: 2016.11 - 2019.10
         Details:
-          - 需求评审，了解关键业务和迭代功能，确定技术框架，以MVC原则规划业务架构
+          - 专业技术能力： 在工作中一直保持对新技术的热情，研究swift和OC混编机制，制作Swift入门教程，组织大家学习Swift基础语法和开发规范，在项目中积极推进Swift 技术应用。近半年已发起多个产品模块支持Swift 迁移工作。每个迁移都以一个完整的迭代流程进行，有评审，评估，设计，代码走查，用例测试，保证迁移的顺利进行。
+          - 任务分配能力： 任务主要借助禅道平台进行项目的迭代任务工具。在用例和开发设计反讲，确定需求之后，相关团队进行小组内任务评估，估算周期，由各组长协调组之间业务依赖，协商对接文档和时间点，然后录入禅道细化执行清单。在启动会议上会明确关键线，分阶段冲刺，快速验证迭代的健壮性。每日通过禅道工具跟踪开发进度，借助五分钟站立会议，协调解决阻塞问题，再层层把关下，为产品保驾护航。
+          - 时间管理能力： 我借助Emacs org-mode 实践GTD 进行时间管理，借助四象限法则，将日常工作分为项目清单，任务清单，行动清单，收集箱。很大的提高了专注力和工作效率，甚至改变了我的人生。
+          - 团队建设能力：我一向重视团队成员的自我成长，会定期一对一沟通，了解每个成员的职业规划，为他们的职业发展路线提出建议，在工作中提供成长的机会，包括分配任务，设计用例反讲和技术培训。员工得到了重视，自然激发了每个人的潜能，对团队更有归属感认同感，进一步凝聚了团队的战斗力。
+        Badges: ['Swift', 'ViperIt', 'SwiftUI', 'Combine']
+      - Title: iOS 工程师
+        Date: 2016.11 - 2019.10
+        Details:
+          - 产品迭代需求评审，熟悉关键业务和功能
           - 分解迭代模块功能，评估任务，估算工时
-          - 使用plantuml做开发模型，设计产品实现类图，流程图，时序图
-          - 技术预研，突破技术难关
-          - 冲刺开发功能业务，优化代码
+          - 确定技术框架及业务架构，使用plantuml做开发模型，设计产品实现类图，流程图，时序图
+          - 技术难点预研，角色实现方案
+          - 冲刺迭代研发，规范代码质量
           - 提测灰度环境，解决功能bug，发布市场
           - 组织Review 成员代码，辅助提升开发规范
           - 组织项目回顾，总结迭代阻塞问题，录入风险库
