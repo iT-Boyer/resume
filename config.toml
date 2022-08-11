@@ -1,4 +1,4 @@
-baseURL = "https://it-boyer.github.io/Resume"
+baseURL = "https://it-boyer.github.io/resume"
 title = "求职简历"
 # 发布目录，指向github的本地仓库
 publishdir = "docs"
